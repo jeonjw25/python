@@ -111,4 +111,5 @@ print(y)
 y = Set([2,1,4,5,6])
 z = Set([2,1])
 y ^= z
-print(y)
+print(y)  
+print(z)
